@@ -46,11 +46,11 @@ Usage: ./rancher.sh [FLAGS] [ACTIONS]
 ### Create the stack
 
 ```
-$ ./rkind.sh create
+$ ./rancher.sh create
 ```
 
 ### destroy the stack
 
 ```
-$ ./rkind.sh --destroy
+$ ./rancher.sh --destroy
 ```
